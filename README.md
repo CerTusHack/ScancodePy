@@ -4,10 +4,10 @@ This command-line script scans Python files for potential vulnerabilities using 
 
 ## Installation
 
-1. Install the dependencies:
+1. Install the dependencies in this case just bandit:
 
    ```bash
-   pip install -r requirements.txt
+   pip install bandit
 
 2. Run the script:
 
